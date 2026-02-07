@@ -1,0 +1,11 @@
+{
+ "programs": [
+  {
+   "name": "halalfetch",
+   "description": "System information tool for Uzbek Linux",
+   "version": "1.0",
+   "install_type": 2,
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/spm-repos/refs/heads/main/core/pkgs/halalfetch.zip"
+  }
+ ]
+}
