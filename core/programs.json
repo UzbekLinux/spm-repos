@@ -29,6 +29,12 @@
    "description": "Access control list utilities, libraries and headers",
    "version": "2.3.2",
    "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/acl.zip"
+  },
+  {
+   "name": "attr",
+   "description": "Extended attribute support library for ACL support",
+   "version": "2.5.2",
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/attr.zip"
   }
  ]
 }
