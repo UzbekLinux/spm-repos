@@ -79,7 +79,12 @@
    "description": "The Open Source toolkit for Secure Sockets Layer and Transport Layer Security",
    "version": "3.6.1",
    "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/openssl.zip"
+  },
+  {
+   "name": "dash",
+   "description": "POSIX compliant shell that aims to be as small as possible",
+   "version": "0.5.12",
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/dash.zip"
   }
-
  ]
 }
