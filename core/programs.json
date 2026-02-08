@@ -4,20 +4,19 @@
    "name": "halalfetch",
    "description": "System information tool for Uzbek Linux",
    "version": "1.0",
-   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/halalfetch.zip",
-   "depends": ["test"]
-  },
-  {
-   "name": "test",
-   "description": "Test!",
-   "version": "0",
    "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/halalfetch.zip"
   },
   {
-   "name": "нет",
-   "description": "Test!",
-   "version": "0",
-   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/test.zip"
+   "name": "linux",
+   "description": "Linux Kernel from source",
+   "version": "none",
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/linux.zip"
+  },
+  {
+   "name": "coreutils",
+   "description": "GNU core utilities",
+   "version": "none",
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/coreutils.zip"
   }
  ]
 }
