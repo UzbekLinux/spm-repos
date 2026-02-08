@@ -16,7 +16,8 @@
    "name": "coreutils",
    "description": "The basic file, shell and text manipulation utilities of the GNU operating system",
    "version": "9.10",
-   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/coreutils.zip"
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/coreutils.zip",
+   "depends": ["acl", "attr", "glibc", "gmp", "libcap", "openssl"]
   },
   {
    "name": "binutils",
@@ -70,7 +71,8 @@
    "name": "glibc",
    "description": "GNU C Library",
    "version": "2.42+r51+gcbf39c26b258",
-   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/glibc.zip"
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/glibc.zip",
+   "depends": ["filesystem", "linux-api-headers", "tzdata"]
   },
   {
    "name": "openssl",
