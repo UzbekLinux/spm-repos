@@ -17,7 +17,8 @@
    "name": "test1",
    "description": "Test!",
    "version": "0",
-   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/halalfetch.zip"
+   "archive_url": "https://raw.githubusercontent.com/UzbekLinux/uzpm-repos/refs/heads/main/core/pkgs/halalfetch.zip",
+   "depends": ["privetkakdela"]
   }
  ]
 }
